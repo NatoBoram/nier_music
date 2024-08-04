@@ -2,6 +2,13 @@
 
 A resource pack that adds music from the NieR series to Minecraft.
 
+<img
+  align="right"
+  alt="NieR"
+  src="https://github.com/user-attachments/assets/ab0d2f9a-1e3e-4925-a7f5-c5a3e06d83e4"
+  width="128"
+/>
+
 ## Build
 
 NieR music is copyrighted material, so I can't provide the music files. To build the pack, you need to download the music files yourself and place it at the appropriate place. This can be automated by running `download_music.bash` or `download_music.ps1`.
