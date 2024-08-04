@@ -1,0 +1,660 @@
+{
+  "music.creative": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/hills_of_radiant_winds",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/city_of_commerce",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/gods_bound_by_rules",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_hollow_dreams",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.credits": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/dispossession_piano_ver",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/dispossession_strings_ver",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/dispossession_pluck_ver",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/dispossession_music_box_ver",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/yonah_piano_ver",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/yonah_strings_ver",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/yonah_pluck_ver_1",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/yonah_pluck_ver_2",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/kaine_salvation",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/emil_sacrifice",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/shadowlord",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/ashes_of_dreams_new",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/ashes_of_dreams_nouveau",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/ashes_of_dreams_nuadhaich",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/ashes_of_dreams_aratanaru",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.dragon": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/blu_bird",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/gods_bound_by_rules",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/deep_crimson_foe",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_dark_colossus_destroys_all",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/kaine_escape",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_fate",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/shadowlords_castle_roar",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/emil_karma",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.end": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/snow_in_summer",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_ultimate_weapon",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/shadowlords_castle_memory",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.game": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/hills_of_radiant_winds",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_devola",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/city_of_commerce",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_prestigious_mask",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_hollow_dreams",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/repose",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.menu": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_hollow_dreams",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/automata/significance",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.nether.basalt_deltas": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/cold_steel_coffin",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/grandma",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_wretched_automatons",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.nether.crimson_forest": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/the_wretched_automatons",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/gods_bound_by_rules",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/deep_crimson_foe",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/the_wretched_automatons",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/temple_of_drifting_sands",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_lost_forest",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.nether.soul_sand_valley": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/grandma",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/temple_of_drifting_sands",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_ultimate_weapon",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_lost_forest",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/shadowlords_castle_memory",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.nether.warped_forest": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_popola",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.badlands": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/the_wretched_automatons",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_prestigious_mask",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/temple_of_drifting_sands",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_lost_forest",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/temple_of_drifting_sands",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/hills_of_radiant_winds",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/repose",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "sounds": []
+  },
+  "music.overworld.desert": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/the_prestigious_mask",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/temple_of_drifting_sands",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/the_lost_forest",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/city_of_commerce",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/grandma",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/repose",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_devola",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/cold_steel_coffin",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_devola",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/repose",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/hills_of_radiant_winds",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/cold_steel_coffin",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/temple_of_drifting_sands",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_popola",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/repose",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.meadow": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/hills_of_radiant_winds",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_devola",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/city_of_commerce",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/repose",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.old_growth_taiga": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/gods_bound_by_rules",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/shadowlords_castle_memory",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/cold_steel_coffin",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.sparse_jungle": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/temple_of_drifting_sands",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/hills_of_radiant_winds",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/cold_steel_coffin",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/city_of_commerce",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.swamp": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/city_of_commerce",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/his_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/this_dream",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.under_water": {
+    "sounds": [
+      {
+        "name": "nier_music:music/replicant/city_of_commerce",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/song_of_the_ancients_popola",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "nier_music:music/replicant/dance_of_the_evanescent",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  }
+}

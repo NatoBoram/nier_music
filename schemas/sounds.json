@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/definitions/SoundsJSONValue"
+  },
+  "definitions": {
+    "SoundsJSONValue": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sounds": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SoundElement"
+          }
+        },
+        "subtitle": {
+          "type": "string"
+        },
+        "replace": {
+          "type": "boolean"
+        }
+      },
+      "required": [],
+      "title": "SoundsJSONValue"
+    },
+    "SoundClass": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "volume": {
+          "type": "number"
+        },
+        "weight": {
+          "type": "integer"
+        },
+        "stream": {
+          "type": "boolean"
+        },
+        "pitch": {
+          "type": "number"
+        },
+        "attenuation_distance": {
+          "type": "integer"
+        },
+        "type": {
+          "$ref": "#/definitions/Type"
+        }
+      },
+      "required": [],
+      "title": "SoundClass"
+    },
+    "SoundElement": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/SoundClass"
+        },
+        {
+          "type": "string"
+        }
+      ],
+      "title": "SoundElement"
+    },
+    "Type": {
+      "type": "string",
+      "enum": ["event"],
+      "title": "Type"
+    }
+  }
+}
