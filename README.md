@@ -1,4 +1,4 @@
-# NieR Music
+# [NieR Music](https://github.com/NatoBoram/nier_music)
 
 A resource pack that adds music from the NieR series to Minecraft.
 
