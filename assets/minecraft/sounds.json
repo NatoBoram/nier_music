@@ -25,6 +25,46 @@
 				"name": "nier_music:music/replicant/his_dream",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_rays_of_light",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/memories_of_dust",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/emils_shop",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/copied_city",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -104,6 +144,11 @@
 				"name": "nier_music:music/replicant/ashes_of_dreams_aratanaru",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/weight_of_the_world_english_version",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -148,6 +193,31 @@
 				"name": "nier_music:music/replicant/emil_karma",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/birth_of_a_wish",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/replicant/a_beautiful_song",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/grandma_destruction",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/end_of_the_unknown",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/dark_colossus_kaiju",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -165,6 +235,11 @@
 			},
 			{
 				"name": "nier_music:music/replicant/shadowlords_castle_memory",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/the_color_of_depression",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -201,6 +276,51 @@
 				"name": "nier_music:music/replicant/repose",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_rays_of_light",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_guitar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_dawn_breeze",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -213,6 +333,11 @@
 			},
 			{
 				"name": "nier_music:music/automata/significance",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/significance_nothing",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -232,6 +357,11 @@
 			},
 			{
 				"name": "nier_music:music/replicant/the_wretched_automatons",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/the_color_of_depression",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -272,6 +402,21 @@
 				"name": "nier_music:music/replicant/the_lost_forest",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/the_color_of_depression",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/wretched_weaponry_medium_dynamic",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/broken_heart",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -301,6 +446,21 @@
 				"name": "nier_music:music/replicant/shadowlords_castle_memory",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/broken_heart",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/wretched_weaponry_quiet",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/mourning",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -318,6 +478,21 @@
 			},
 			{
 				"name": "nier_music:music/replicant/this_dream",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/amusement_park",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/copied_city",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/mourning",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -344,6 +519,26 @@
 				"name": "nier_music:music/replicant/the_lost_forest",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/memories_of_dust",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/wretched_weaponry_medium_dynamic",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/possessed_by_disease",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/broken_heart",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -351,6 +546,21 @@
 		"sounds": [
 			{
 				"name": "nier_music:music/replicant/temple_of_drifting_sands",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -377,11 +587,62 @@
 				"name": "nier_music:music/replicant/repose",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_rays_of_light",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_guitar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_dawn_breeze",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
 	"music.overworld.deep_dark": {
-		"sounds": []
+		"sounds": [
+			{
+				"name": "nier_music:music/automata/the_color_of_depression",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.desert": {
 		"sounds": [
@@ -399,6 +660,16 @@
 				"name": "nier_music:music/replicant/the_lost_forest",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/memories_of_dust",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/broken_heart",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -406,6 +677,26 @@
 		"sounds": [
 			{
 				"name": "nier_music:music/replicant/city_of_commerce",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/copied_city",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -432,6 +723,46 @@
 				"name": "nier_music:music/replicant/repose",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_guitar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_dawn_breeze",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/forest_kingdom",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -449,6 +780,16 @@
 			},
 			{
 				"name": "nier_music:music/replicant/this_dream",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/forest_kingdom",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -484,6 +825,26 @@
 				"name": "nier_music:music/replicant/repose",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/forest_kingdom",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -517,6 +878,16 @@
 				"name": "nier_music:music/replicant/this_dream",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/forest_kingdom",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -529,6 +900,41 @@
 			},
 			{
 				"name": "nier_music:music/replicant/repose",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_guitar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/copied_city",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -555,6 +961,46 @@
 				"name": "nier_music:music/replicant/repose",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_guitar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_dawn_breeze",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -579,6 +1025,56 @@
 				"name": "nier_music:music/replicant/shadowlords_castle_memory",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_rays_of_light",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/peaceful_sleep",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_guitar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_dawn_breeze",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/forest_kingdom",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/mourning",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -588,6 +1084,21 @@
 				"name": "nier_music:music/replicant/cold_steel_coffin",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_guitar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/voice_of_no_return_normal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/mourning",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -595,6 +1106,21 @@
 		"sounds": [
 			{
 				"name": "nier_music:music/replicant/temple_of_drifting_sands",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/treasured_times",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/pascal",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -616,6 +1142,11 @@
 				"name": "nier_music:music/replicant/city_of_commerce",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/city_ruins_shade",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -635,6 +1166,16 @@
 				"name": "nier_music:music/replicant/this_dream",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/forest_kingdom",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -652,6 +1193,11 @@
 			},
 			{
 				"name": "nier_music:music/replicant/dance_of_the_evanescent",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_cold_rain",
 				"stream": true,
 				"volume": 0.4
 			}
