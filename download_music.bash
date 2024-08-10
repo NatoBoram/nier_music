@@ -240,4 +240,58 @@ download 'https://www.youtube.com/watch?v=JchFTkB3kQE' './assets/nier_music/soun
 ## 28. Mourning
 download 'https://www.youtube.com/watch?v=EFKnzTsKDU0' './assets/nier_music/sounds/music/automata' 'mourning'
 
+## 29. Dependent Weakling
+download 'https://www.youtube.com/watch?v=DDwmKkxAyk0' './assets/nier_music/sounds/music/automata' 'dependent_weakling'
+
+## 30. Weight of the World Kowaretasekainouta
+download 'https://www.youtube.com/watch?v=Dsk3DTdTY3Y' './assets/nier_music/sounds/music/automata' 'weight_of_the_world_kowaretasekainouta'
+
+## 31. Rebirth & Hope
+download 'https://www.youtube.com/watch?v=iZP5meU4_Lk' './assets/nier_music/sounds/music/automata' 'rebirth_and_hope'
+
+## 32. War & War
+download 'https://www.youtube.com/watch?v=Bd67uSWHk2g' './assets/nier_music/sounds/music/automata' 'war_and_war'
+
+## 33. Crumbling Lies (Front)
+download 'https://www.youtube.com/watch?v=ef_re_O5RfU' './assets/nier_music/sounds/music/automata' 'crumbling_lies_front'
+
+## 34. Widespread Illness
+download 'https://www.youtube.com/watch?v=ygmpQwwqOH8' './assets/nier_music/sounds/music/automata' 'widespread_illness'
+
+## 35. Fortress of Lies
+download 'https://www.youtube.com/watch?v=0Vcoh3KgXCk' './assets/nier_music/sounds/music/automata' 'fortress_of_lies'
+
+## 36. Vague Hope (Spring Rain)
+download 'https://www.youtube.com/watch?v=TTnGvarkyv4' './assets/nier_music/sounds/music/automata' 'vague_hope_spring_rain'
+
+## 37. Song of the Ancients (Atonement)
+download 'https://www.youtube.com/watch?v=QNmui0Prrls' './assets/nier_music/sounds/music/automata' 'song_of_the_ancients_atonement'
+
+## 38. Blissful Death
+download 'https://www.youtube.com/watch?v=t0eTErEiyJQ' './assets/nier_music/sounds/music/automata' 'blissful_death'
+
+## 39. Emil (Despair)
+download 'https://www.youtube.com/watch?v=EyZaNx8T-fM' './assets/nier_music/sounds/music/automata' 'emil_despair'
+
+## 40. Faltering Prayer (Starry Sky)
+download 'https://www.youtube.com/watch?v=ifUIPaTYG4E' './assets/nier_music/sounds/music/automata' 'faltering_prayer_starry_sky'
+
+## 41. Alien Manifestation
+download 'https://www.youtube.com/watch?v=nTbyCYcHS6s' './assets/nier_music/sounds/music/automata' 'alien_manifestation'
+
+## 42. The Tower
+download 'https://www.youtube.com/watch?v=smnbPEysX6k' './assets/nier_music/sounds/music/automata' 'the_tower'
+
+## 43. Bipolar Nightmare
+download 'https://www.youtube.com/watch?v=RycVMzNnt0c' './assets/nier_music/sounds/music/automata' 'bipolar_nightmare'
+
+## 44. The Sound of the End
+download 'https://www.youtube.com/watch?v=j2MfP7vhPVQ' './assets/nier_music/sounds/music/automata' 'the_sound_of_the_end'
+
+## 45. Weight of the World Nouveau-FR Version
+download 'https://www.youtube.com/watch?v=cRSHvbu1UK4' './assets/nier_music/sounds/music/automata' 'weight_of_the_world_nouveau_fr_version'
+
+## 46. Weight of the World the End of YoRHa
+download 'https://www.youtube.com/watch?v=PslQESlD4xs' './assets/nier_music/sounds/music/automata' 'weight_of_the_world_the_end_of_yorha'
+
 ./build.sh

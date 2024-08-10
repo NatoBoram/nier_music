@@ -149,6 +149,21 @@
 				"name": "nier_music:music/automata/weight_of_the_world_english_version",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/weight_of_the_world_kowaretasekainouta",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/weight_of_the_world_nouveau_fr_version",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/weight_of_the_world_the_end_of_yorha",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -218,6 +233,31 @@
 				"name": "nier_music:music/automata/dark_colossus_kaiju",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/dependent_weakling",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/song_of_the_ancients_atonement",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/emil_despair",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/bipolar_nightmare",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/the_sound_of_the_end",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -240,6 +280,16 @@
 			},
 			{
 				"name": "nier_music:music/automata/the_color_of_depression",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/fortress_of_lies",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/blissful_death",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -321,6 +371,11 @@
 				"name": "nier_music:music/automata/pascal",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_starry_sky",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -338,6 +393,11 @@
 			},
 			{
 				"name": "nier_music:music/automata/significance_nothing",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/fortress_of_lies",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -383,6 +443,16 @@
 				"name": "nier_music:music/replicant/deep_crimson_foe",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/war_and_war",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/alien_manifestation",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -415,6 +485,11 @@
 			},
 			{
 				"name": "nier_music:music/automata/broken_heart",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/widespread_illness",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -461,6 +536,11 @@
 				"name": "nier_music:music/automata/mourning",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/crumbling_lies_front",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -493,6 +573,16 @@
 			},
 			{
 				"name": "nier_music:music/automata/mourning",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/widespread_illness",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/the_tower",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -537,6 +627,11 @@
 			},
 			{
 				"name": "nier_music:music/automata/broken_heart",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/war_and_war",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -632,6 +727,21 @@
 				"name": "nier_music:music/automata/pascal",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/rebirth_and_hope",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_starry_sky",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -699,6 +809,11 @@
 				"name": "nier_music:music/automata/copied_city",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -763,6 +878,16 @@
 				"name": "nier_music:music/automata/forest_kingdom",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/rebirth_and_hope",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_starry_sky",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -790,6 +915,11 @@
 			},
 			{
 				"name": "nier_music:music/automata/forest_kingdom",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -845,6 +975,16 @@
 				"name": "nier_music:music/automata/forest_kingdom",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/rebirth_and_hope",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -857,6 +997,11 @@
 			},
 			{
 				"name": "nier_music:music/replicant/cold_steel_coffin",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_starry_sky",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -937,6 +1082,11 @@
 				"name": "nier_music:music/automata/copied_city",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -999,6 +1149,11 @@
 			},
 			{
 				"name": "nier_music:music/automata/pascal",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
 				"stream": true,
 				"volume": 0.4
 			}
@@ -1075,6 +1230,16 @@
 				"name": "nier_music:music/automata/mourning",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_starry_sky",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -1147,6 +1312,11 @@
 				"name": "nier_music:music/automata/city_ruins_shade",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/faltering_prayer_starry_sky",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -1176,6 +1346,11 @@
 				"name": "nier_music:music/automata/forest_kingdom",
 				"stream": true,
 				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
+				"stream": true,
+				"volume": 0.4
 			}
 		]
 	},
@@ -1198,6 +1373,11 @@
 			},
 			{
 				"name": "nier_music:music/automata/vague_hope_cold_rain",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/vague_hope_spring_rain",
 				"stream": true,
 				"volume": 0.4
 			}
