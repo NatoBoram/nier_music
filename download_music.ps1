@@ -3,7 +3,7 @@
 function download {
 	param ($url, $path, $name)
 
-	yt-dlp --audio-format 'vorbis' --audio-quality 0 --concurrent-fragments 6 --download-archive 'download_archive.txt' --embed-chapters --embed-metadata --embed-thumbnail --extract-audio --no-abort-on-error --sponsorblock-mark default --sponsorblock-remove default --windows-filenames --xattrs --output "$name.%(ext)s" --paths "$path" $url
+	yt-dlp --audio-format 'vorbis' --audio-quality 0 --concurrent-fragments 6 --cookies-from-browser 'firefox' --download-archive 'download_archive.txt' --embed-chapters --embed-metadata --embed-thumbnail --extract-audio --mark-watched --no-abort-on-error --output "$name.%(ext)s" --paths "$path" --sponsorblock-mark default --sponsorblock-remove default --windows-filenames --xattrs $url
 }
 
 # NieR Gestalt & NieR Replicant Original Soundtrack

@@ -11,7 +11,7 @@ A resource pack that adds music from the NieR series to Minecraft.
   width="128"
 />
 
-NieR music is copyrighted material, so I can't provide the music files. To build the pack, you need to download the music files yourself and place it at the appropriate place. This can be automated by running `download_music.bash` or `download_music.ps1`.
+The music of NieR is copyrighted material, so this resource pack cannot be published. To build the pack, you need to download the music files yourself and place it at the appropriate location. This can be automated by running `download_music.bash` or `download_music.ps1`.
 
 ```bash
 # On Linux or MacOS
@@ -21,11 +21,20 @@ NieR music is copyrighted material, so I can't provide the music files. To build
 ./download_music.ps1
 ```
 
-This will download all NieR music from YouTube and place it in the correct directory. It will also generate a `nier_music.zip` that you will be able to place in your `resourcepacks` folder.
+This will download all NieR music from YouTube and place it in the correct directory. It will also generate a `nier_music.zip` that you will be able to place in your `resourcepacks` folder. Please double-check that `yt-dlp` was able to download all music files.
+
+The `nier_music.zip` will weight about 1 GiB.
 
 ## Dependencies
 
-- `yt-dlp`
-- `ffmpeg`
-- `7zip`
-- `bash` or `pwsh`
+You'll need to install these in order to download & build the resource pack:
+
+- [`bash`](https://www.gnu.org/software/bash) or [`pwsh`](https://github.com/PowerShell/PowerShell)
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
+- [`ffmpeg`](https://ffmpeg.org)
+- [`7zip`](https://www.7-zip.org)
+- [Firefox](https://www.mozilla.org/firefox), logged in to [YouTube](https://www.youtube.com)
+
+Using `download_music.bash` or `download_music.ps1` will request `yt-dlp` to extract YouTube login cookies from Firefox to prevent download issues as the amount of downloads is guaranteed to trigger YouTube's bot detection.
+
+Once `nier_music.zip` is generated, you'll no longer need these dependencies.

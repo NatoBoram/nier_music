@@ -9,18 +9,20 @@ function download() {
 		--audio-format 'vorbis' \
 		--audio-quality 0 \
 		--concurrent-fragments 6 \
+		--cookies-from-browser 'firefox' \
 		--download-archive 'download_archive.txt' \
 		--embed-chapters \
 		--embed-metadata \
 		--embed-thumbnail \
 		--extract-audio \
+		--mark-watched \
 		--no-abort-on-error \
+		--output "$name.%(ext)s" \
+		--paths "$path" \
 		--sponsorblock-mark default \
 		--sponsorblock-remove default \
 		--windows-filenames \
 		--xattrs \
-		--output "$name.%(ext)s" \
-		--paths "$path" \
 		$url
 }
 
