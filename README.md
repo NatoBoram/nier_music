@@ -38,3 +38,23 @@ You'll need to install these in order to download & build the resource pack:
 Using `download_music.bash` or `download_music.ps1` will request `yt-dlp` to extract YouTube login cookies from Firefox to prevent download issues as the amount of downloads is guaranteed to trigger YouTube's bot detection.
 
 Once `nier_music.zip` is generated, you'll no longer need these dependencies.
+
+## Development
+
+To start developing this pack, you can just clone it directly to your `.minecraft/resourcepacks` folder.
+
+```sh
+# On Linux or MacOS
+git clone git@github.com:NatoBoram/nier_music.git ~/.minecraft/resourcepacks/nier_music
+cd ~/.minecraft/resourcepacks/nier_music
+./download_music.bash
+code .
+```
+
+```bat
+REM On Windows
+git clone git@github.com:NatoBoram/nier_music.git "%AppData%\.minecraft\resourcepacks\nier_music"
+cd "%AppData%\.minecraft\resourcepacks\nier_music"
+./download_music.ps1
+code .
+```
