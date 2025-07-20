@@ -1,1 +1,4 @@
-{ "pack": { "pack_format": 34, "description": "NieR Music" } }
+{
+	"animation": {},
+	"pack": { "description": "The sound of NieR", "pack_format": 34 }
+}
