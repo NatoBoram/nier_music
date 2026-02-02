@@ -21,9 +21,9 @@ The music of NieR is copyrighted material, so this resource pack cannot be publi
 ./download.ps1
 ```
 
-This will download all NieR music from YouTube and place it in the correct directory. It will also generate a `nier_music.zip` that you will be able to place in your `resourcepacks` folder. Please double-check that `yt-dlp` was able to download all music files.
+This will download all NieR music from YouTube and place it in the correct directory. It will also generate a `NieR Music.zip` that you will be able to place in your `resourcepacks` folder. Please double-check that `yt-dlp` was able to download all music files.
 
-The `nier_music.zip` will weight about 1 GiB.
+The `NieR Music.zip` will weight about 1 GiB.
 
 ## Dependencies
 
@@ -37,7 +37,7 @@ You'll need to install these in order to download & build the resource pack:
 
 Using `download.bash` or `download.ps1` will request `yt-dlp` to extract YouTube login cookies from Firefox to prevent download issues as the amount of downloads is guaranteed to trigger YouTube's bot detection.
 
-Once `nier_music.zip` is generated, you'll no longer need these dependencies.
+Once `NieR Music.zip` is generated, you'll no longer need these dependencies.
 
 ## Development
 
