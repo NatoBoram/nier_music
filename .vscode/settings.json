@@ -1,8 +1,8 @@
 {
 	"json.schemas": [
 		{
-			"fileMatch": ["/assets/minecraft/sounds.json"],
-			"url": "https://raw.githubusercontent.com/AxoCode/json-schema/master/minecraft/sounds.json"
+			"fileMatch": ["/assets/*/sounds.json"],
+			"url": "./schemas/sounds.json"
 		},
 		{
 			"fileMatch": ["pack.mcmeta"],

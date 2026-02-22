@@ -1,41 +1,91 @@
 {
 	"$schema": "http://json-schema.org/draft-06/schema#",
-	"type": "object",
-	"additionalProperties": { "$ref": "#/definitions/SoundsJSONValue" },
+	"additionalProperties": { "$ref": "#/definitions/SoundEvent" },
 	"definitions": {
-		"SoundsJSONValue": {
-			"type": "object",
+		"Sound": {
+			"oneOf": [
+				{ "$ref": "#/definitions/SoundFile" },
+				{ "$ref": "#/definitions/SoundPath" }
+			]
+		},
+		"SoundEvent": {
 			"additionalProperties": false,
+			"description": "A sound event. The name is usually separated in categories (such as `entity.enderman.stare`). (To get a different namespace than `minecraft` the file must be under a different namespace; not defining it here.)",
 			"properties": {
-				"sounds": {
-					"type": "array",
-					"items": { "$ref": "#/definitions/SoundElement" }
+				"replace": {
+					"default": false,
+					"description": "Used only in resource packs. True if the sounds listed in **sounds** should replace the sounds listed in the default sounds.json for this sound event. False if the sounds listed should be added to the list of default sounds. Optional. If undefined, defaults to false.",
+					"type": "boolean"
 				},
-				"subtitle": { "type": "string" },
-				"replace": { "type": "boolean" }
+				"sounds": {
+					"description": "The sound files this sound event uses. One of the listed sounds is randomly selected to play when this sound event is triggered. Optional.",
+					"items": { "$ref": "#/definitions/Sound" },
+					"type": "array"
+				},
+				"subtitle": {
+					"description": "Translation key for the subtitle of the sound. Accepts formatting codes and displays them properly in-game. Optional. If not specified, the sound event is not displayed in closed captions.",
+					"type": "string"
+				}
 			},
-			"required": [],
-			"title": "SoundsJSONValue"
+			"title": "Sound Event",
+			"type": "object"
 		},
-		"SoundClass": {
-			"type": "object",
+		"SoundFile": {
 			"additionalProperties": false,
+			"description": "A sound file. This Object is used only when the sound requires additional Strings.",
 			"properties": {
-				"name": { "type": "string" },
-				"volume": { "type": "number" },
-				"weight": { "type": "integer" },
-				"stream": { "type": "boolean" },
-				"pitch": { "type": "number" },
-				"attenuation_distance": { "type": "integer" },
-				"type": { "$ref": "#/definitions/Type" }
+				"attenuation_distance": {
+					"default": 16,
+					"description": "Modify sound reduction rate based on distance. Used by portals, pistons, beacons, and conduits. Defaults to 16.",
+					"type": "integer"
+				},
+				"name": {
+					"description": "The path to this sound file from the namespace/sounds folder (excluding the .ogg file extension). The namespace defaults to `minecraft` but it can be changed by prepending a namespace and separating it with a `:`. Uses forward slashes instead of backslashes. May instead be the name of another sound event (according to value of \"type\"). If the sound file has one channel (mono), it can be played locationally (sound volume decreases the farther you are from the source). If the file has two channels (stereo), the volume does not change (for example music, ambient sounds). Names are also not allowed to contain whitespace characters.",
+					"type": "string"
+				},
+				"pitch": {
+					"default": 1.0,
+					"description": "Plays the pitch at the specified value. Value is a decimal greater than 0.0. If undefined, defaults to 1.0, but higher and lower values can be chosen.",
+					"type": "number"
+				},
+				"preload": {
+					"default": false,
+					"description": "True if this sound should be loaded when loading the pack instead of when the sound is played. Used by the underwater ambience. Defaults to false.",
+					"type": "boolean"
+				},
+				"stream": {
+					"default": false,
+					"description": "True if this sound should be streamed from its file. Recommended to set to true for sounds longer than a few seconds to avoid lag. Used for all sounds in the \"music\" and \"record\" categories (except Note Block sounds). If undefined, defaults to \"false\". False allows many more instances of the sound to play simultaneously while true only allows 4 instances (of that type) to play at the same time.",
+					"type": "boolean"
+				},
+				"type": { "$ref": "#/definitions/Type" },
+				"volume": {
+					"default": 1.0,
+					"description": "The volume for playing this sound. Value is a decimal greater than 0.0. If undefined, defaults to 1.0.",
+					"type": "number"
+				},
+				"weight": {
+					"default": 1,
+					"description": "The chance that this sound is selected to play when this sound event is triggered. Defaults to 1. Putting 2 in for the value would be like placing in the name twice. Only accepts integers.",
+					"type": "integer"
+				}
 			},
-			"required": [],
-			"title": "SoundClass"
+			"required": ["name"],
+			"title": "Sound",
+			"type": "object"
 		},
-		"SoundElement": {
-			"anyOf": [{ "$ref": "#/definitions/SoundClass" }, { "type": "string" }],
-			"title": "SoundElement"
+		"SoundPath": {
+			"description": "The path to a sound file from the \"namespace/sounds\" folder (excluding the .ogg file extension). Uses forward slashes. The namespace defaults to minecraft but it can be changed by prepending a namespace and separating it with a `:`.",
+			"type": "string"
 		},
-		"Type": { "type": "string", "enum": ["event"], "title": "Type" }
-	}
+		"Type": {
+			"default": "file",
+			"description": "Two values are available: \"file\" and \"event\"; \"file\" causes the value of \"name\" to be interpreted as the name of a file, while \"event\" causes the value of \"name\" to be interpreted as the name of an already defined event. If undefined, defaults to \"file\".",
+			"enum": ["file", "event"],
+			"title": "Type",
+			"type": "string"
+		}
+	},
+	"properties": { "$schema": { "type": "string" } },
+	"type": "object"
 }
