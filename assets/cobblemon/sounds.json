@@ -1,0 +1,119 @@
+{
+	"battle.pvn.default": {
+		"sounds": [
+			{
+				"name": "nier_music:music/replicant/the_incomplete_stone",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/replicant/gods_bound_by_rules",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/grandma_destruction",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/dark_colossus_kaiju",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/song_of_the_ancients_atonement",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/emil_despair",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/the_sound_of_the_end",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
+	},
+	"battle.pvp.default": {
+		"sounds": [
+			{
+				"name": "nier_music:music/replicant/blu_bird",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/replicant/the_dark_colossus_destroys_all",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/replicant/song_of_the_ancients_fate",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/replicant/emil_karma",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/a_beautiful_song",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/end_of_the_unknown",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/possessed_by_disease",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/dependent_weakling",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/bipolar_nightmare",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
+	},
+	"battle.pvw.default": {
+		"sounds": [
+			{
+				"name": "nier_music:music/replicant/deep_crimson_foe",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/replicant/shadowlords_castle_roar",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/birth_of_a_wish",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/war_and_war",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "nier_music:music/automata/alien_manifestation",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
+	}
+}
