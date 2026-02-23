@@ -27,6 +27,7 @@ function download() {
 }
 
 # NieR Gestalt & NieR Replicant Original Soundtrack
+# https://www.youtube.com/playlist?list=OLAK5uy_lJW1JpYw6dQyZAR7ElreMUATvSeWjC0CE
 mkdir -p './assets/nier_music/sounds/music/replicant'
 
 ## 01. Snow in Summer
@@ -156,6 +157,7 @@ download 'https://www.youtube.com/watch?v=hOuFFS628I8' './assets/nier_music/soun
 download 'https://www.youtube.com/watch?v=UgSHUZvs8jg' './assets/nier_music/sounds/music/replicant' 'ashes_of_dreams_aratanaru'
 
 # NieR:Automata Original Soundtrack
+# https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM
 mkdir -p './assets/nier_music/sounds/music/automata'
 
 ## 01. Significance - Nothing
