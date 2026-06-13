@@ -15,10 +15,10 @@ The music of NieR is copyrighted material, so this resource pack cannot be publi
 
 ```bash
 # On Linux or MacOS
-./download.bash
+make download
 
 # On Windows
-./download.ps1
+./scripts/download.ps1
 ```
 
 This will download all NieR music from YouTube and place it in the correct directory. It will also generate a `NieR Music.zip` that you will be able to place in your `resourcepacks` folder. Please double-check that `yt-dlp` was able to download all music files.
@@ -47,7 +47,7 @@ To start developing this pack, you can just clone it directly to your `.minecraf
 # On Linux or MacOS
 git clone git@github.com:NatoBoram/nier_music.git ~/.minecraft/resourcepacks/nier_music
 cd ~/.minecraft/resourcepacks/nier_music
-./download.bash
+make download
 code .
 ```
 
@@ -55,6 +55,6 @@ code .
 REM On Windows
 git clone git@github.com:NatoBoram/nier_music.git "%AppData%\.minecraft\resourcepacks\nier_music"
 cd "%AppData%\.minecraft\resourcepacks\nier_music"
-./download.ps1
+./scripts/download.ps1
 code .
 ```

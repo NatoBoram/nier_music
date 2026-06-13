@@ -5,11 +5,16 @@ function download() {
 	local path="$2"
 	local name="$3"
 
+	local cookies=()
+	if [ -f './cookies.txt' ]; then
+		cookies=(--cookies './cookies.txt')
+	else
+		cookies=(--cookies-from-browser 'firefox')
+	fi
+
 	yt-dlp \
 		--audio-format 'vorbis' \
 		--audio-quality 0 \
-		--concurrent-fragments 6 \
-		--cookies-from-browser 'firefox' \
 		--download-archive 'download_archive.txt' \
 		--embed-chapters \
 		--embed-metadata \
@@ -19,10 +24,12 @@ function download() {
 		--no-abort-on-error \
 		--output "$name.%(ext)s" \
 		--paths "$path" \
+		--preset-alias sleep \
 		--sponsorblock-mark default \
 		--sponsorblock-remove default \
 		--windows-filenames \
 		--xattrs \
+		"${cookies[@]}" \
 		$url
 }
 
@@ -297,5 +304,3 @@ download 'https://www.youtube.com/watch?v=cRSHvbu1UK4' './assets/nier_music/soun
 
 ## 46. Weight of the World the End of YoRHa
 download 'https://www.youtube.com/watch?v=PslQESlD4xs' './assets/nier_music/sounds/music/automata' 'weight_of_the_world_the_end_of_yorha'
-
-./build.sh
