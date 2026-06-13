@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - run: apt update
-      - run: apt install --assume-yes --auto-remove --no-install-recommends 7zip ffmpeg yt-dlp
+      - run: apt install --assume-yes --auto-remove --no-install-recommends ffmpeg p7zip-full yt-dlp
 
       - run: |
           curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/bin/yt-dlp
